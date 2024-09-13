@@ -7,9 +7,7 @@ export default function Home() {
       <main className={styles.main}>
       
         <ol>
-          <li>
-            Get started by editing <code>src/app/page.js</code>.
-          </li>
+         
           <li>Save and see your changes instantly.</li>
         </ol>
 
